@@ -1,0 +1,3 @@
+/file/sync_files/FasterMVSNet/fusibile-master/CMakeFiles/rebuild_cache.dir
+/file/sync_files/FasterMVSNet/fusibile-master/CMakeFiles/fusibile.dir
+/file/sync_files/FasterMVSNet/fusibile-master/CMakeFiles/edit_cache.dir

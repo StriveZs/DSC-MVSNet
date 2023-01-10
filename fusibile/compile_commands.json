@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/file/sync_files/FasterMVSNet/fusibile-master",
+  "command": "/usr/bin/c++  -I/file/sync_files/FasterMVSNet/fusibile-master/. -I/usr/local/cuda/include -isystem /usr/local/include/opencv4  -fopenmp   -std=c++11 -Wall -Wextra -pedantic -Wno-unused-function -o CMakeFiles/fusibile.dir/main.cpp.o -c /file/sync_files/FasterMVSNet/fusibile-master/main.cpp",
+  "file": "/file/sync_files/FasterMVSNet/fusibile-master/main.cpp"
+}
+]
